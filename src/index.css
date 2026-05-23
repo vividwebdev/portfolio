@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@variant dark (&:where(.dark, .dark *));
+
+html.dark {
+  background-color: #030712; /* gray-950 */
+}
