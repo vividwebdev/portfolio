@@ -4,7 +4,7 @@
 
 ### A fast, responsive, and accessible personal portfolio built with React, Tailwind CSS, and Framer Motion.
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-2E75B6?style=for-the-badge)](https://your-portfolio.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-2E75B6?style=for-the-badge)](https://portfolio-akinwumi-oni.vercel.app/)
 [![License](https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge)](LICENSE)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38BDF8?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com)
@@ -13,7 +13,7 @@
 
 <br />
 
-![Portfolio Preview](./src/assets/preview.webm)
+![Portfolio Preview](./src/assets/preview.gif)
 
 _Replace the image above with an actual screenshot once deployed_
 

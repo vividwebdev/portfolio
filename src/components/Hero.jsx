@@ -86,9 +86,9 @@ export default function Hero() {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.1 }}
-          className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-4 leading-tight"
+          className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-4 leading-tight [text-shadow:_0_0_15px_rgba(0,0,0,0.8)]"
         >
-          Oni <span className="text-[#2E75B6]">Akinwumi Peter</span>
+          ONI <span className="text-[#2E75B6]">Akinwumi Peter</span>
         </motion.h1>
 
         {/* Typewriter role */}

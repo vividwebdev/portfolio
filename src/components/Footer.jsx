@@ -38,8 +38,8 @@ export default function Footer() {
             transition={{ duration: 0.5 }}
             className="text-center"
           >
-            <h3 className="text-white font-bold text-xl tracking-tight">
-              Oni <span className="text-[#2E75B6]">Akinwumi</span> Peter
+            <h3 className="text-white font-bold text-xl tracking-tight [text-shadow:_0_0_5px_rgba(0,0,0,0.8)]">
+              ONI <span className="text-[#2E75B6]">Akinwumi Peter</span>
             </h3>
             <p className="text-sm text-gray-500 mt-1 tracking-widest uppercase">
               Developer · Analyst · Digital Builder

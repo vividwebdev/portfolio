@@ -16,7 +16,7 @@ import {
   SiGithub
 } from "react-icons/si";
 import { IoLogoTableau } from "react-icons/io5";
-import profilePhoto from "../assets/akin-oni.jpg";
+import profilePhoto from "../assets/profile.jpg";
 import { PowerBiIcon } from "../assets/icons/otherIcons";
 
 const TextIcon = ({ text, color }) => (

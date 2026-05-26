@@ -29,8 +29,11 @@ export default function Navbar({ dark, setDark }) {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <span className="text-white font-bold text-lg tracking-tight select-none">
-            Oni <span className="text-[#2E75B6]">Akinwumi</span>
+          <span className="text-white font-bold text-lg tracking-tight select-none [text-shadow:_0_0_5px_rgba(0,0,0,0.8)]">
+            ONI{" "}
+            <span className="text-[#2E75B6] [text-shadow:_0_0_5px_rgba(0,0,0,0.8)]">
+              Akinwumi
+            </span>
           </span>
 
           {/* Desktop nav links */}
