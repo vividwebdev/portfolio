@@ -8,7 +8,7 @@ const projects = [
       "A responsive single-page portfolio built with React, Tailwind CSS, and Framer Motion. Features dark/light mode, smooth scroll navigation, and Vercel deployment.",
     tags: ["React", "Tailwind CSS", "Framer Motion", "Vite"],
     live: "/",
-    github: null,
+    github: "https://github.com/vividwebdev/portfolio",
     status: "live"
   },
   {
@@ -16,9 +16,9 @@ const projects = [
     description:
       "A full MERN stack task management app with JWT authentication, role-based access control, and Docker containerisation for consistent deployment.",
     tags: ["MongoDB", "Express.js", "React", "Node.js", "Docker", "JWT"],
-    live: null,
-    github: null,
-    status: "coming-soon"
+    live: "https://taskmastr-ao.vercel.app/",
+    github: "https://github.com/vividwebdev/taskmastr",
+    status: "live"
   },
   {
     title: "COVID-19 Data Analysis Dashboard",
