@@ -25,9 +25,9 @@ const projects = [
     description:
       "Exploratory data analysis of global COVID-19 trends using Python. Includes time-series visualisations, mortality rate analysis, and country-level comparisons.",
     tags: ["Python", "Pandas", "Matplotlib", "Seaborn", "Jupyter"],
-    live: null,
-    github: null,
-    status: "coming-soon"
+    live: "https://gist.github.com/vividwebdev/04b286d5d4c75f936546d99d3136b0af",
+    github: "https://github.com/vividwebdev/covid19-data-analysis",
+    status: "live"
   },
   {
     title: "Sales & Revenue Power BI Dashboard",
